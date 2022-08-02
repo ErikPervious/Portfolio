@@ -1,0 +1,9 @@
+const colors = {
+  BLUE_PRIMARY: '#13131F',
+  BLUE_SECONDARY: '#161622',
+  BLUE_TERTIARY: '#02E392',
+  WHITE_PRIMARY: '#FFFFFF',
+  WHITE_SECONDARY: '#E1E1E1'
+}
+
+export { colors };
